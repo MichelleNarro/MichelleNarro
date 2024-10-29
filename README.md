@@ -1,5 +1,6 @@
+
+<h1> 👋 Hi, I’m @MichelleNarro </h1>
 <ul>
-<li> 👋 Hi, I’m @MichelleNarro </li>
 <li>👀 I’m interested in web development, user interface design, and learning about new technologies.</li>
 <li>🌱 I’m currently learning advanced web development skills as a second-year student in Web Application Development.</li>
 <li>💞️ I’m looking to collaborate on open-source projects or web development projects to gain more practical experience.</li>
