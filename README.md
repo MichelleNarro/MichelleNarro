@@ -1,4 +1,4 @@
-👋 Hi, I’m @MichelleNarro
+👋 Hi, I’m @MichelleNarro <br>
 👀 I’m interested in web development, user interface design, and learning about new technologies.
 🌱 I’m currently learning advanced web development skills as a second-year student in Web Application Development.
 💞️ I’m looking to collaborate on open-source projects or web development projects to gain more practical experience.
